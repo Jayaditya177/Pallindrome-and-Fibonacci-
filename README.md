@@ -1,13 +1,18 @@
-Palindrome & Fibonacci in Python.
-This repository contains efficient implementations of Palindrome and Fibonacci algorithms with different approaches.
+# **Palindrome & Fibonacci**  
 
-🚀 Features
-✅ Palindrome Check
+A simple Python repo for **Palindrome** and **Fibonacci** functions.  
 
-Simple string reversal
-Case-insensitive + ignores non-alphanumeric characters
-Optimized two-pointer approach
-✅ Fibonacci Sequence
+## **Features**  
+- Palindrome check (normal, advanced, optimized)  
+- Fibonacci sequence (recursive, iterative, generator)  
 
-Recursive (with memoization)
-Iterative approach (efficient)
+## **How to Use**  
+Clone the repo and run the scripts.  
+
+## **Project Structure**  
+- `palindrome.py` → Palindrome functions  
+- `fibonacci.py` → Fibonacci functions  
+- `README.md` → This file  
+
+## **License**  
+Free to use and modify.
