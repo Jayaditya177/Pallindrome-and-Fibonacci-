@@ -1,4 +1,4 @@
-Palindrome & Fibonacci in Python
+Palindrome & Fibonacci in Python.
 This repository contains efficient implementations of Palindrome and Fibonacci algorithms with different approaches.
 
 🚀 Features
